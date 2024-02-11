@@ -1,1 +1,1 @@
-# NBC-NEWS- This is NBS News Clone 
+# NBC-NEWS Clone
